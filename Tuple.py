@@ -1,0 +1,10 @@
+t1=(10, 20, 30,40, 50, 34.5, 'abc')
+print(t1)
+print(t1.index(40))
+print(t1.count('abc'))
+print(len(t1))
+print(t1[2])
+
+t2=(120,)
+print(t2)
+print(type(t2))
